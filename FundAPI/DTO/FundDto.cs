@@ -6,6 +6,6 @@
         public string Ticker { get; set; } 
         public string Exchange { get; set; }
         public Guid Id { get; set; }
-       // public FundDto() { }
+      
     }
 }

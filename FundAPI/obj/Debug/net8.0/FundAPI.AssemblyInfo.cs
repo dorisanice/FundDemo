@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a3e6d40dd6663ff182e3c08a2b7138f22cf6493")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

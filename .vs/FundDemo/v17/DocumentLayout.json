@@ -3,28 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\services\\fundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\services\\fundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08FFD24-12CA-4FF7-806B-23F4D98FA697}|FundConsole\\FundConsole.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08FFD24-12CA-4FF7-806B-23F4D98FA697}|FundConsole\\FundConsole.csproj|solutionrelative:fundconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\controllers\\fundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\controllers\\fundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\interfaces\\ifundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\interfaces\\ifundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08FFD24-12CA-4FF7-806B-23F4D98FA697}|FundConsole\\FundConsole.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundconsole\\fund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08FFD24-12CA-4FF7-806B-23F4D98FA697}|FundConsole\\FundConsole.csproj|solutionrelative:fundconsole\\fund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\dto\\funddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\dto\\funddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D08FFD24-12CA-4FF7-806B-23F4D98FA697}|FundConsole\\FundConsole.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundconsole\\fundconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D08FFD24-12CA-4FF7-806B-23F4D98FA697}|FundConsole\\FundConsole.csproj|solutionrelative:fundconsole\\fundconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,36 +70,8 @@
       "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\fundapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\fundapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\dto\\funddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\dto\\funddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\fundapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\fundapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|c:\\users\\oomoghu\\source\\repos\\funddemo\\fundapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}|FundAPI\\FundAPI.csproj|solutionrelative:fundapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,30 +81,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "FundAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\appsettings.json",
-              "RelativeToolTip": "FundAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-02T19:31:55.312Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundConsole\\Program.cs",
+              "RelativeDocumentMoniker": "FundConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundConsole\\Program.cs",
+              "RelativeToolTip": "FundConsole\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAE0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:54:11.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FundsController.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Controllers\\FundsController.cs",
+              "RelativeDocumentMoniker": "FundAPI\\Controllers\\FundsController.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Controllers\\FundsController.cs",
+              "RelativeToolTip": "FundAPI\\Controllers\\FundsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:58:01.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFundService.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Interfaces\\IFundService.cs",
+              "RelativeDocumentMoniker": "FundAPI\\Interfaces\\IFundService.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Interfaces\\IFundService.cs",
+              "RelativeToolTip": "FundAPI\\Interfaces\\IFundService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:52:37.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "FundAPI\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Controllers\\AccountController.cs",
               "RelativeToolTip": "FundAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAAC8AAAA1AAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAADQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T18:35:44.308Z",
               "EditorCaption": ""
@@ -105,123 +138,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "FundAPI\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Entities\\AppUser.cs",
-              "RelativeToolTip": "FundAPI\\Entities\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T18:01:20.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FundsController.cs",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Controllers\\FundsController.cs",
-              "RelativeDocumentMoniker": "FundAPI\\Controllers\\FundsController.cs",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Controllers\\FundsController.cs",
-              "RelativeToolTip": "FundAPI\\Controllers\\FundsController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T15:58:01.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Program.cs",
               "RelativeDocumentMoniker": "FundAPI\\Program.cs",
               "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Program.cs",
               "RelativeToolTip": "FundAPI\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T14:30:28.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "FundAPI\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Services\\TokenService.cs",
-              "RelativeToolTip": "FundAPI\\Services\\TokenService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "DocumentIndex": 0,
+              "Title": "FundService.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Services\\FundService.cs",
+              "RelativeDocumentMoniker": "FundAPI\\Services\\FundService.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Services\\FundService.cs",
+              "RelativeToolTip": "FundAPI\\Services\\FundService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T19:17:21.528Z",
+              "WhenOpened": "2024-07-02T23:06:57.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DTO\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "FundAPI\\DTO\\UserLoginDto.cs",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DTO\\UserLoginDto.cs",
-              "RelativeToolTip": "FundAPI\\DTO\\UserLoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAeAAAA",
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DataService.cs",
+              "RelativeDocumentMoniker": "FundAPI\\DataService.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DataService.cs",
+              "RelativeToolTip": "FundAPI\\DataService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T14:47:05.64Z",
+              "WhenOpened": "2024-07-02T14:32:37.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DTO\\UserDto.cs",
-              "RelativeDocumentMoniker": "FundAPI\\DTO\\UserDto.cs",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DTO\\UserDto.cs",
-              "RelativeToolTip": "FundAPI\\DTO\\UserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T19:33:30.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FundAPI",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\FundAPI.csproj",
-              "RelativeDocumentMoniker": "FundAPI\\FundAPI.csproj",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\FundAPI.csproj",
-              "RelativeToolTip": "FundAPI\\FundAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-02T19:16:59.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Interfaces\\ITokenService.cs",
-              "RelativeDocumentMoniker": "FundAPI\\Interfaces\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Interfaces\\ITokenService.cs",
-              "RelativeToolTip": "FundAPI\\Interfaces\\ITokenService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T19:16:00.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "FundAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "FundAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAUwB4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T14:44:03.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "BaseAPIController.cs",
               "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Controllers\\BaseAPIController.cs",
               "RelativeDocumentMoniker": "FundAPI\\Controllers\\BaseAPIController.cs",
@@ -234,6 +189,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fund.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundConsole\\Fund.cs",
+              "RelativeDocumentMoniker": "FundConsole\\Fund.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundConsole\\Fund.cs",
+              "RelativeToolTip": "FundConsole\\Fund.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:50:03.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIkUAAAAAAAAAAAAAIkUAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-02T22:03:49.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FundAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\appsettings.json",
+              "RelativeToolTip": "FundAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T19:31:55.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "FundAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "FundAPI\\Services\\TokenService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:17:21.528Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "FundDto.cs",
               "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DTO\\FundDto.cs",
@@ -242,47 +247,68 @@
               "RelativeToolTip": "FundAPI\\DTO\\FundDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T14:27:57.241Z",
+              "WhenOpened": "2024-07-02T14:27:57.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FundConsole.csproj",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundConsole\\FundConsole.csproj",
+              "RelativeDocumentMoniker": "FundConsole\\FundConsole.csproj",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundConsole\\FundConsole.csproj",
+              "RelativeToolTip": "FundConsole\\FundConsole.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T21:53:28.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "FundAPI.http",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\FundAPI.http",
-              "RelativeDocumentMoniker": "FundAPI\\FundAPI.http",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\FundAPI.http",
-              "RelativeToolTip": "FundAPI\\FundAPI.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-02T16:07:08.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DataService.cs",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DataService.cs",
-              "RelativeDocumentMoniker": "FundAPI\\DataService.cs",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DataService.cs",
-              "RelativeToolTip": "FundAPI\\DataService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "FundAPI\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "FundAPI\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T14:32:37.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T19:16:00.089Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "FundAPI\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "FundAPI\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DTO\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "FundAPI\\DTO\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DTO\\UserLoginDto.cs",
+              "RelativeToolTip": "FundAPI\\DTO\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T14:30:11.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T14:47:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "FundAPI\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\DTO\\UserDto.cs",
+              "RelativeToolTip": "FundAPI\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:33:30.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "FundAPI\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\oomoghu\\source\\repos\\FundDemo\\FundAPI\\Entities\\AppUser.cs",
+              "RelativeToolTip": "FundAPI\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:01:20.705Z"
             }
           ]
         }

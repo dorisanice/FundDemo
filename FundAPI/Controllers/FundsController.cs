@@ -1,23 +1,19 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using FundAPI.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FundAPI.Controllers
 {
     [Authorize]
+    [AllowAnonymous]
     [ApiController]
     [Route("api/[controller]")]
-    public class FundsController : BaseAPIController
+    public class FundsController(IFundService _fundService) : BaseAPIController
     {
-        private readonly DataService _dataService;
-
-        public FundsController(DataService dataService) 
-        {
-            _dataService = dataService;
-        }
         [HttpGet]
-        public IActionResult Get([FromQuery] string query)
+        public IActionResult GetFunds([FromQuery] string query)
         {
-            var funds = _dataService.GetFunds(query);
+            var funds = _fundService.GetFunds(query);
             return Ok(funds);
         }
     }

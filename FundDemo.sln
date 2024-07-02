@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundAPI", "FundAPI\FundAPI.csproj", "{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundAPI", "FundAPI\FundAPI.csproj", "{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundConsole", "FundConsole\FundConsole.csproj", "{D08FFD24-12CA-4FF7-806B-23F4D98FA697}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26F46CD1-E6DA-4AEF-826C-42F9AF4F99E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08FFD24-12CA-4FF7-806B-23F4D98FA697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08FFD24-12CA-4FF7-806B-23F4D98FA697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08FFD24-12CA-4FF7-806B-23F4D98FA697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08FFD24-12CA-4FF7-806B-23F4D98FA697}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

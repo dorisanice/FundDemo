@@ -25,6 +25,7 @@ C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\FundAPI.Assembly
 C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\FundAPI.csproj.CoreCompileInputs.cache
 C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\FundAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\FundAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\FundAPI.sourcelink.json
 C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\staticwebassets\msbuild.FundAPI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -39,3 +40,4 @@ C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\refint\FundAPI.d
 C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\FundAPI.pdb
 C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\FundAPI.genruntimeconfig.cache
 C:\Users\oomoghu\source\repos\FundDemo\FundAPI\obj\Debug\net8.0\ref\FundAPI.dll
+C:\Users\oomoghu\source\repos\FundDemo\FundAPI\bin\Debug\net8.0\data.json

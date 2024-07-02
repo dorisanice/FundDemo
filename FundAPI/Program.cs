@@ -30,6 +30,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 
 builder.Services.AddScoped<ITokenService, TokenService>();
+builder.Services.AddScoped<IFundService, FundService>();
 
 var app = builder.Build();
 

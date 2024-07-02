@@ -1,0 +1,124 @@
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.tli
+*.bak
+*.cache
+*.ilk
+*.log
+*.dll
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+
+#Ignore packages directory
+Packages/
+
+# temp files
+*~
+.vs/
+
+
+#Allow NuGet.exe
+!NuGet.exe
+
+#Ignore generated nupkg files
+*.nupkg
+
+
+#Ignore private folder
+/Private/
+*.dll
+
+# User-specific files
+*.suo
+*.user
+*.filters
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.etl
+
+
+# =========================
+# PS specific
+## image files
+## database templates
+## document and lnk files
+## VisualStudio files
+# =========================
+
+*.chm
+*.lnk
+*.bmp
+*.cur
+*.gif
+*.ico
+*.jpg
+*.scc
+*.sdf
+*.user
+#*.vcproj
+#*.vdproj
+*.vspscc
+*.vssscc
+
+CHS/
+CHT/
+DEU/
+ENA/
+ENG/
+ENV/
+ENZ/
+FRA/
+FRC/
+ITA/
+JPN/
+KOR/
+ZHH/
+
+# =========================
+# diff and patch
+# =========================
+*.diff
+*.patch
+*.rej
+*.orig
+
+# =========================
+# git crash
+# =========================
+*.stackdump
+
+# =========================
+# PS web resources
+# =========================
+pb.dlg.js
+mu.ut.dp.sp.dg.js

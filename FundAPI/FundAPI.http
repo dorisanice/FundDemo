@@ -1,0 +1,6 @@
+@FundAPI_HostAddress = http://localhost:5228
+
+GET {{FundAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

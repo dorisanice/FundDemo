@@ -1,10 +1,10 @@
-﻿using FundAPI.Entities;
+﻿using FundAPI.DTO;
 
 namespace FundAPI.Interfaces
 {
     public interface ITokenService
     {
-        string CreateToken(AppUser user);
+        string CreateToken(UserLoginDto user);
 
     }
 }

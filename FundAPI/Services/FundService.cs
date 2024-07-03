@@ -6,10 +6,9 @@ namespace FundAPI.Services
 {
     public class FundService : IFundService
     {
-        public List<FundDto> Funds { get; set; }
-     
         public IEnumerable<FundDto> GetFunds(string query)
         {
+            List<FundDto> Funds = new List<FundDto>();
             var json = File.ReadAllText("data.json");
             Funds = JsonConvert.DeserializeObject<List<FundDto>>(json);
           
